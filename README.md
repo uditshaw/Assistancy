@@ -47,7 +47,7 @@ server.sendmail('<user-name>', mailIds[to], content)
 
 Python must be installed in your System. if not, please install python from the following link
 
-- [Python download]("https://www.python.org/downloads/")
+- [Python download](https://www.python.org/downloads/)
 ## Installation
 
 Install Assitancy with pip
