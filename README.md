@@ -14,7 +14,6 @@ If the user commands does not contain the trigger words, it searches using the W
 
 Assistancy AI Voice assistant:"Good Morning (Greets the user according to time), I am your Assistancy, How can I help you?"
 
-This project is build by the Members of Group - 3, Tools and Techniques Laboratory, KIIT.
 ## Acknowledgements
 
  - [End-End Guide for Speech Recognition in Python](https://www.analyticsvidhya.com/blog/2021/12/guide-for-speech-recognition/)
@@ -296,12 +295,6 @@ At the end, the root frame is wrapped up and buttons are added to the frame and 
 
 5.sys
 ```
-## Authors
+## Author
 
 - [@uditshaw(1905817)](https://www.linkedin.com/in/udit-shaw-72565619a/)
-- [@aryandubey(1905815)](https://www.linkedin.com/in/aryan-dubey-b30321209/)
-- [@prateekagarwal(1905814)](https://www.linkedin.com/in/prateek-agarwal-87bb9a157/)
-- [@anirbanpal(1905816)](https://www.linkedin.com/in/anirbanpal25/)
-
-
-
